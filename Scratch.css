@@ -1,0 +1,97 @@
+/*navbar Start*/
+.nav-wrapper img {width: 60px; height: 55px; margin-right: 10px;}
+ .brand-logo {font-size: 16px;}
+
+
+/*navbar End*/
+
+
+/* Start Slider Img*/
+
+.slider .slides li img {height: 600px; }
+
+/*End Slider Img*/
+
+/*Start Section-search*/
+.section-search { margin-top: 150px; margin-bottom: 100px; border-radius: 10px;}
+
+.section-search input {
+  padding: 5px !important;
+  font-size: 18px !important;
+  width: 90% !important;
+  border: #fff 3px solid !important;
+  border-radius: 10px; 
+}
+
+.section-search .input-field #autocomplete-input  { border-radius: 10px; border: 1px solid #000 !important;}
+
+/*End Section-search*/
+
+
+/*Start section icons*/
+
+.section-icons .card-panel:hover{ box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);}
+
+/*End section icons*/
+
+
+
+/*Start Image Section*/
+.card .card-image img{ height: 230px; }
+/*End Image Section*/
+
+/*start social follow Icons*/
+
+ .section-follow .fa-4x {margin: 5px 10px;}
+
+/*End social follow Icons*/
+
+
+/*Start Gallery section*/
+
+.section-gallery img{ padding: 5px; border-radius: 10px;}
+
+/*End Gallery section*/
+
+
+/*Start section popular */
+
+.section-popular { margin-top: 100px;  margin-bottom: 100px;}
+
+.section-popular .card:hover { box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);}
+
+.card .card-image .card-title{ color: #434040;; font-weight: bold; padding-bottom: 5px;}
+
+.card .card-content{ text-align: right; letter-spacing: 1px; height: 360px; overflow: hidden;}
+
+/*Start section popular */
+
+.section-services  { margin-top: 100px;  margin-bottom: 100px;}
+
+.section-services h5 {margin: 30px 20px;}
+
+.section-services img {width: 300px; height: 210px; border-radius: 10px;}
+.section-services img:hover { box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);} 
+
+/*Start Section services*/
+
+
+/*End Section services*/
+
+
+/*Start section Article*/
+
+.section-article img { 
+  width: 512px;height: 366px;
+  display: block;margin-left: auto;
+  margin-right: auto; border-radius: 10px; 
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+}
+
+.section-article img:hover {
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+
+}
+
+/*End section Article*/
